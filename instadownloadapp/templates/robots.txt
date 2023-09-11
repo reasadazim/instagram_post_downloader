@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /media/downloads/*
+
+Sitemap: https://YOUR_WEBSITE_URL/sitemap/
